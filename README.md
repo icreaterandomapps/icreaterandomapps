@@ -34,7 +34,7 @@ whatever I feel like making
 
 ### github stats
 
-<img src="https://github-readme-stats.sion.dev/api?username=icreaterandomapps&show_icons=true&theme=github_dark&hide_border=true" height="165">
+<img src="https://github-readme-stats.shion.dev/api?username=icreaterandomapps&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="165">
 
-<img src="https://github-readme-stats.sion.dev/api/top-langs/?username=icreaterandomapps&layout=compact&theme=github_dark&hide_border=true" height="165">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=icreaterandomapps&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="165">
 
