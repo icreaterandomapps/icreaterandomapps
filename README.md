@@ -1,15 +1,6 @@
 # hi, i'm `icreaterandomapps`
 
-i make random things with code.
-
-mostly interested in:
-
-* old Windows
-* Minecraft
-* weird software
-* operating systems
-* retro internet stuff
-* making tiny programs for no reason
+mostly interested in tech and software
 
 ### stuff i've made
 
@@ -22,7 +13,7 @@ mostly interested in:
 
 ### languages
 
-`Python`
+`Python`.`Batch`
 
 ### currently messing with
 
