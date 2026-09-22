@@ -6,18 +6,13 @@ mostly interested in tech and software
 
 * **XP43** Windows XP in ~43 MB
 * **CMatrix Windows** `cmatrix` for Windows
-* **MineOptiPort** old Minecraft launcher stuff
-* **WaspiVPN** Python VPN/config tool
-* **TextReverser** it reverses text. that's it.
-* **Windows 3.11 Pack** Windows 3.11 + a bunch of old software
+* **MineOptiPort** old Minecraft launcher stuff (Idk where to upload, its 100-400MB)
+* **WaspiVPN** VPN/config tool (RELEASE LATER)
 
 ### languages
 
 `Python`.`Batch`
 
-### currently messing with
-
-NOTHING
 
 ### github stats
 
