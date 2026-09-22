@@ -18,7 +18,7 @@ mostly interested in tech and software
 
 [![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Icreaterandomapps?cardType=level&theme=dark&fontFamily=Allerta%20Stencil&preferLogin=false)](https://git.io/awesome-stats-card)
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=icreaterandomapps&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="165">
+<img src="https://github-reEdme-stats.shion.dev/api/top-langs/?username=icreaterandomapps&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="165">
 
 <img src="https://streak-stats.demolab.com/?user=icreaterandomapps&theme=dark&hide_border=false" height="165">
 
