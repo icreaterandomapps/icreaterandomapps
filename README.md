@@ -34,10 +34,7 @@ whatever I feel like making
 
 ### github stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=icreaterandomapps&show_icons=true&theme=github_dark&hide_border=true" height="165">
+<img src="https://github-readme-stats.sion.dev/api?username=icreaterandomapps&show_icons=true&theme=github_dark&hide_border=true" height="165">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icreaterandomapps&layout=compact&theme=github_dark&hide_border=true" height="165">
+<img src="https://github-readme-stats.sion.dev/api/top-langs/?username=icreaterandomapps&layout=compact&theme=github_dark&hide_border=true" height="165">
 
----
-
-[github.com/icreaterandomapps](https://github.com/icreaterandomapps)
