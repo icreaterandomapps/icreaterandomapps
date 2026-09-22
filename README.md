@@ -22,7 +22,7 @@ mostly interested in:
 
 ### languages
 
-`Python` · `Java` · `JavaScript` · `HTML` · `CSS`
+`Python`
 
 ### currently messing with
 
@@ -37,4 +37,6 @@ whatever I feel like making
 <img src="https://github-readme-stats.shion.dev/api?username=icreaterandomapps&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="165">
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=icreaterandomapps&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="165">
+
+<img src="https://streak-stats.demolab.com/?user=icreaterandomapps&theme=dark&hide_border=false" height="165">
 
