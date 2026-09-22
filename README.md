@@ -17,11 +17,7 @@ mostly interested in tech and software
 
 ### currently messing with
 
-old Windows stuff
-Minecraft
-tiny OS projects
-old browsers / old web
-whatever I feel like making
+NOTHING
 
 ### github stats
 
