@@ -13,12 +13,12 @@ mostly interested in:
 
 ### stuff i've made
 
-* **XP43** — Windows XP in ~43 MB
-* **CMatrix Windows** — `cmatrix` for Windows
-* **MineOptiPort** — old Minecraft launcher stuff
-* **WaspiVPN** — Python VPN/config tool
-* **TextReverser** — it reverses text. that's it.
-* **Windows 3.11 Pack** — Windows 3.11 + a bunch of old software
+* **XP43** Windows XP in ~43 MB
+* **CMatrix Windows** `cmatrix` for Windows
+* **MineOptiPort** old Minecraft launcher stuff
+* **WaspiVPN** Python VPN/config tool
+* **TextReverser** it reverses text. that's it.
+* **Windows 3.11 Pack** Windows 3.11 + a bunch of old software
 
 ### languages
 
