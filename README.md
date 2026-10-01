@@ -4,9 +4,9 @@ mostly interested in tech and software
 
 ### stuff i've made
 
-* **XP43** Windows XP in ~43 MB
-* **CMatrix Windows** `cmatrix` for Windows
-* **MineOptiPort** old Minecraft launcher stuff **(Idk where to upload, its 100-400MB)**
+* **XP43**: Windows XP in ~43 MB
+* **CMatrix Windows**: `cmatrix` for Windows
+* **MineOptiPort**: 1.8 OptiFine Minecraft launcher stuff **(Idk where to upload, its 100-400MB)**
 * **Emuify** Android emulator based on googles REAL emulator 
 * **WaspiVPN** VPN/config tool ***(RELEASE LATER)***
 
