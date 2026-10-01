@@ -14,6 +14,11 @@ mostly interested in tech and software
 
 `Python`.`Batch`
 
+### websites/creations
+
+https://icreaterandomapps.github.io/cursortest/
+https://icreaterandomapps.github.io/Mlnecraft/
+https://icreaterandomapps.github.io/games/
 
 ### github stats
 
