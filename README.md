@@ -6,7 +6,7 @@ mostly interested in tech and software, pro vibecoder
 
 * **Emuify** Android emulator based on googles REAL emulator 
 * **XP43**: Windows XP in ~43 MB
-* **MineOptiPort**: 1.8 OptiFine Minecraft launcher stuff **(Idk where to upload, its 100-400MB)**
+* **MineOptiPort**: 1.8 OptiFine Minecraft launcher stuff **(Idk where to upload, its 100-400MB) (sadly scraped cuz i accedently deleted it)**
 * **CMatrix Windows**: `cmatrix` for Windows
 * **WaspiVPN** VPN/config tool ***(RELEASE LATER)***
 
