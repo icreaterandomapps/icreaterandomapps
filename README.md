@@ -1,6 +1,6 @@
 # hi, i'm `icreaterandomapps`
 
-mostly interested in tech and software. pro vibecoder
+mostly interested in tech and software, pro vibecoder
 
 ### stuff i've made
 
