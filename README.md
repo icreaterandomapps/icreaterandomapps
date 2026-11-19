@@ -16,9 +16,7 @@ mostly interested in tech and software, pro vibecoder
 
 ### websites/creations
 
-https://icreaterandomapps.github.io/cursortest/
-https://icreaterandomapps.github.io/Mlnecraft/
-https://icreaterandomapps.github.io/games/
+deleted them
 
 ### github stats
 
