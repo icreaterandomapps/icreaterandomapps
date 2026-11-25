@@ -44,14 +44,6 @@ mostly interested in tech and software, pro vibecoder
 ![Batch](https://img.shields.io/badge/Batch-scripting-2b3138?style=for-the-badge&logo=windowsterminal&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-x86-2b3138?style=for-the-badge)
 
-<img src="divider.svg" width="100%">
-
-### websites/creations
-
-* https://icreaterandomapps.github.io — main site
-* https://icreaterandomapps.github.io/cursortest — cursor tester
-* https://icreaterandomapps.github.io/n5100 — n5100
-* https://www.rw-designer.com/user/121950 — my cursors on rw-designer
 
 <img src="divider.svg" width="100%">
 
