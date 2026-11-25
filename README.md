@@ -4,7 +4,6 @@
 
 mostly interested in tech and software, pro vibecoder
 
-> status: frozen, not broken.
 
 ![profile views](https://komarev.com/ghpvc/?username=icreaterandomapps&label=PROFILE+VIEWS&color=7aa2f7&style=for-the-badge)
 
