@@ -12,7 +12,8 @@ mostly interested in tech and software, pro vibecoder
 
 ### languages
 
-`Python`.`Batch`
+`Python`.`Batch`.`C`.`C++`.
+
 
 ### websites/creations
 
