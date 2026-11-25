@@ -8,9 +8,9 @@ mostly interested in tech and software, pro vibecoder
 
 ### about me
 
-* the username is literal — i create random apps
+* the username is literal - i create random apps
 * based in iran
-* into os dev, emulation and retro computing — i build software that probably shouldn't exist
+* into os dev, emulation and retro computing - i build software that probably shouldn't exist
 * obsessed with making things tiny and fast (see: windows xp in 43 mb)
 * i also design custom cursors and test them in the browser
 * 17 repos and counting, most of them born from a "what if..."
