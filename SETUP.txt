@@ -1,0 +1,19 @@
+HOW TO USE THIS PACK
+====================
+
+1. Upload everything in this folder to your profile repo
+   (github.com/icreaterandomapps/icreaterandomapps) so the layout is:
+
+     README.md                  <- root of the repo
+     divider.svg                <- root of the repo (README references it)
+     .github/workflows/snake.yml
+
+   Easiest way: on the repo page press "." (or use github.dev) and drag
+   the files in, or git add/commit/push.
+
+2. Turn on the snake: go to the Actions tab -> "generate snake" ->
+   "Run workflow". It also runs daily at 03:12 UTC. The snake SVGs get
+   pushed to the "output" branch and show up in the README right away.
+
+3. That is it. Everything else (visitor counter, stat cards, skill
+   icons, dividers) works immediately.
